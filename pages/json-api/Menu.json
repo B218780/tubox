@@ -1,0 +1,47 @@
+{
+    "logo" : "/2.jpg",
+    "menu" : [
+        {
+            "label" : "Home",
+            "url" : "/"
+        },
+        {
+            "label" : "Promotions",
+            "url" : "/promotions"
+        },
+        {
+            "label" : "Shop",
+            "url" : "/shop"
+        },
+        {
+            "label" : "Product",
+            "url" : "/product"
+        },
+        {
+            "label" : "Blog",
+            "url" : "/blog"
+        },
+        {
+            "label" : "Pages",
+            "url" : "/pages"
+        }
+    ],
+    "icon" : [
+        {
+            "icon" : "Home"
+        },
+        {
+            "icon" : "Home"
+        },
+        {
+            "icon" : "Home"
+        },
+        {
+            "icon" : "Home"
+        },
+        {
+            "icon" : "Home"
+        }
+    ]
+}
+
