@@ -32,7 +32,7 @@ const iconArray = [
 const Navbar = ()=>{
 
     return (
-        <div className="flex justify-between items-center px-20 py-1 shadow-lg">
+        <div className="flex justify-between items-center py-1 shadow-lg w-4/5 mx-auto">
             <div className="w-[50px] h-[50px]"><Image src={Menu.logo} alt="Picture of the author" width={50} height={50} className="rounded-full w-[50px] h-[50px]"/></div>
             <div className="w-fit flex gap-10">
                 {

@@ -1,6 +1,8 @@
+import OutsideTheCity from "./outsideTheCity"
+
 const Home = ()=>{
     return (
-        <h1>Home Component</h1>
+        <OutsideTheCity />
     )
 }
 export default Home
