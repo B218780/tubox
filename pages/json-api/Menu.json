@@ -25,23 +25,7 @@
             "label" : "Pages",
             "url" : "/pages"
         }
-    ],
-    "icon" : [
-        {
-            "icon" : "Home"
-        },
-        {
-            "icon" : "Home"
-        },
-        {
-            "icon" : "Home"
-        },
-        {
-            "icon" : "Home"
-        },
-        {
-            "icon" : "Home"
-        }
     ]
+    
 }
 

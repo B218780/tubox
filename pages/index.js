@@ -1,10 +1,11 @@
 import Layouts from "../shared/layouts";
 
+
 const Index = ()=>{
   return(
-    <div>
-      <Layouts />
-    </div>
+      <Layouts>
+        Home
+      </Layouts>
   )
 }
 export default Index
