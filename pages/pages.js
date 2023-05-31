@@ -1,10 +1,11 @@
 import Layouts from "../shared/layouts";
+import Pages from "../shared/layouts/navbar/pages";
 
-const Pages = ()=>{
+const pages = ()=>{
     return (
         <Layouts>
-            <h1 className="text-9xl text-red-500">Pages</h1>
+            <Pages />
         </Layouts>
     )
 }
-export default Pages
+export default pages

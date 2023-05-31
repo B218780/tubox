@@ -7,7 +7,7 @@ const Layouts = (data)=>{
         <div>
             <Head>{data.pageTitle}</Head>
             <Navbar />
-            <div>
+            <div className="bg-green-200">
                 {data.children}
             </div>
             <Footer />

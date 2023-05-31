@@ -1,10 +1,11 @@
 import Layouts from "../shared/layouts";
+import Product from "../shared/layouts/navbar/product";
 
-const Product = ()=>{
+const product = ()=>{
     return (
         <Layouts>
-            <h1 className="text-9xl text-red-500">Product</h1>
+            <Product />
         </Layouts>
     )
 }
-export default Product
+export default product

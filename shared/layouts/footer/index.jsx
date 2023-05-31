@@ -81,7 +81,7 @@ const Footer = ()=>{
                         <h1 className="mx-auto text-xl">Clearance Sales</h1>
                         <p className="mb-2 mx-auto text-2xl">Up to 70% Off.All Sales are Final! </p>
                         <div className="flex justify-center items-center w-1/2 mx-auto">
-                            <input placeholder="Subscribe Your Email" className="px-3 py-3 bg-[#2C2C2C] w-1/3"/>
+                            <input placeholder="Subscribe Your Email" className="px-3 py-3 bg-[#2C2C2C] w-1/2 shadow-[1px_1px_3px_rgba(255,255,255,0.1)]"/>
                             <button className="text-white bg-black px-4 py-3 text-sm">Subscribe</button>
                         </div>
                     </div>

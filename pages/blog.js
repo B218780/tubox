@@ -1,10 +1,11 @@
 import Layouts from "../shared/layouts";
+import Blog from "../shared/layouts/navbar/blog";
 
-const Blog = ()=>{
+const blog = ()=>{
     return (
         <Layouts>
-            <h1 className="text-9xl text-red-500">Blog</h1>
+            <Blog />
         </Layouts>
     )
 }
-export default Blog
+export default blog
