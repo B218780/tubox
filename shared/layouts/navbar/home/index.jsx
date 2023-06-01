@@ -3,8 +3,10 @@ import SixLogos from "./sixLogos"
 
 const Home = ()=>{
     return (
-        <OutsideTheCity />
-        <SixLogos />
+        <div>
+            <OutsideTheCity />
+            <SixLogos />
+        </div>
     )
 }
 export default Home
